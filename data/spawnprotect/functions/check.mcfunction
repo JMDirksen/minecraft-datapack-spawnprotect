@@ -14,6 +14,8 @@ kill @e[type=tnt,x=0,y=70,z=0,distance=..250]
 
 # Remove Creepers
 tp @e[type=creeper,x=0,y=70,z=0,distance=..250] 0 -5 0
+kill @e[type=creeper,x=0,y=70,z=0,distance=..250]
 
 # Remove Wither
 tp @e[type=wither,x=0,y=70,z=0,distance=..250] 0 -5 0
+kill @e[type=wither,x=0,y=70,z=0,distance=..250]
